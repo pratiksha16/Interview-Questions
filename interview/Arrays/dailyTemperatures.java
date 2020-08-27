@@ -46,6 +46,8 @@ Code:
                     // pop out from the stack;
             add (stack.peek()- i intop the output array if stack not empty // else add 0;)
             push(i);
+            Time Complexity: o(n);
+            Space Complexity: O(n); since we are making a stack of size n;
             
 
 */
