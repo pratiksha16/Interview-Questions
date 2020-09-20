@@ -6,12 +6,12 @@
 
 */
 
-package interview.Arrays;
+package interview.Array;
 
 public class MeanFinding {
 
     public static void main(String[] args) {
-        int[] a = { 2, 4, 5, 6, 3 };
+        int[] a = { 2, 4, 5, 6, 6, 3 };
         System.out.println(findCound(a));
 
     }

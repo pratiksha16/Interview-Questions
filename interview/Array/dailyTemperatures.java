@@ -52,7 +52,7 @@ Code:
 
 */
 
-package interview.Arrays;
+package interview.Array;
 
 import java.util.*;
 

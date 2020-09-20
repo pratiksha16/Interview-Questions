@@ -36,7 +36,7 @@ Time-Complexity: O(n);
 Space-complexity: O(1);
 
 */
-package interview.Arrays;
+package interview.Array;
 
 import java.util.*;
 
